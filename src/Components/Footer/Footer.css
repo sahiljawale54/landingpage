@@ -1,0 +1,12 @@
+#footer{
+  height: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.f-content {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  font-size: 1rem;
+}

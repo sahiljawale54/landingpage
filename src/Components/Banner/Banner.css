@@ -1,0 +1,35 @@
+#banner{
+  height: 100vh;
+  padding: 6rem;
+  margin: 0;
+  background-image: url("../../Images/earth.jpg");
+  background-size: cover;  
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.content span {
+  font-size: 4rem;
+  font-weight: bold;
+}
+.content span:nth-child(odd){
+  color: var(--white);
+}
+.content span:nth-child(even){
+  color: var(--green);
+}
+
+
+.b-btn{
+  background-color: var(--green);
+  color: white;
+  width: 200px;
+  padding: 1rem;
+  border-radius: 34px;
+  margin: 19px;
+  margin-top: 25px;
+}

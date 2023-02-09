@@ -1,0 +1,32 @@
+#offer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  padding: 2rem;
+}
+
+.o-body {
+  font-size: 3rem;
+  display: flex;
+  
+}
+.o-body span:nth-child(2){
+  color: var(--green);
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.o-right{
+  display: flex;
+  justify-content: center;
+}
+
+.o-right img{
+  padding: 2rem;
+  padding-top: 0;
+  max-height: 450px;
+
+}
+

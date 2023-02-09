@@ -1,0 +1,38 @@
+#order{
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-image: url('../../Images/bg1.jpg');
+}
+
+.o-content {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.o-body span{
+  font-size: 4rem;
+}
+
+.o-btn{
+  width: 50%;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: var(--green);
+  font-size: 2rem;
+}
+
+.o-btn:hover{
+  color: black;
+  background-color: brown;
+
+}
+
+.o-btn a {
+  text-decoration: none;
+  color: white;
+}
