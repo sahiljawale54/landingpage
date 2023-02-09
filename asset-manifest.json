@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/landingpage/static/css/main.02333ee3.css",
+    "main.js": "/landingpage/static/js/main.32d2d662.js",
+    "static/js/787.d3befce1.chunk.js": "/landingpage/static/js/787.d3befce1.chunk.js",
+    "static/media/earth.jpg": "/landingpage/static/media/earth.8fe95ab317c2ac013b2a.jpg",
+    "static/media/kit.png": "/landingpage/static/media/kit.97d828e2bd67c7822839.png",
+    "static/media/bamboo.png": "/landingpage/static/media/bamboo.b188c661009ba957e0a8.png",
+    "static/media/bg1.jpg": "/landingpage/static/media/bg1.4751b9d15f9dc8e346b7.jpg",
+    "static/media/loofah.png": "/landingpage/static/media/loofah.616d353179ef87e47eda.png",
+    "static/media/save.png": "/landingpage/static/media/save.4ab6ee49b19a7d00b2c4.png",
+    "static/media/cup.png": "/landingpage/static/media/cup.fd6e149465eefc6d1c7d.png",
+    "static/media/toothbrush.png": "/landingpage/static/media/toothbrush.013c5725f62ad6dd6d6d.png",
+    "static/media/earbuds.png": "/landingpage/static/media/earbuds.31d4d96e8c197a29d7ed.png",
+    "index.html": "/landingpage/index.html",
+    "main.02333ee3.css.map": "/landingpage/static/css/main.02333ee3.css.map",
+    "main.32d2d662.js.map": "/landingpage/static/js/main.32d2d662.js.map",
+    "787.d3befce1.chunk.js.map": "/landingpage/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02333ee3.css",
+    "static/js/main.32d2d662.js"
+  ]
+}
