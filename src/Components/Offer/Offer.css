@@ -4,29 +4,30 @@
   justify-content: center;
   align-items: center;
   height: 70vh;
-  padding: 2rem;
+  padding: 1rem;
 }
 
-.o-body {
+.of-body {
   font-size: 3rem;
-  display: flex;
-  
+  /* display: flex; */
 }
-.o-body span:nth-child(2){
+.of-body span:nth-child(2){
   color: var(--green);
   font-weight: bold;
   padding-left: 10px;
 }
 
-.o-right{
+.of-right{
   display: flex;
   justify-content: center;
 }
 
-.o-right img{
-  padding: 2rem;
-  padding-top: 0;
-  max-height: 450px;
+.of-right img{
+  padding: 1rem;
+  max-height: 400px;
+  opacity: 0.9;
+  border-radius: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
 
