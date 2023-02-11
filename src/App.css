@@ -2,6 +2,7 @@
 {
     --yellow: #F5C32C;
     --green: #3ea462fe;
+    --drakGreen: #427754;
     --orange : #FCA61F;
     --black : #242D49;
     --gray : #808080;
@@ -18,5 +19,16 @@
   overflow: hidden;
   color: var(--black);  
   font-weight: bold;
+  scroll-behavior: smooth;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn {
+  border-radius: 54px;
+}
+
+.btn:hover {
+  background:hsla(0,0%,100%,.26);
+  color: white;
+  border: 4px solid var(--drakGreen);
 }

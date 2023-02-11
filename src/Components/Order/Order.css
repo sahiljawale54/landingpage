@@ -5,6 +5,8 @@
   align-items: center;
   color: white;
   background-image: url('../../Images/bg1.jpg');
+  background-size: contain;
+  box-shadow:0px 19px 60px rgb(0 0 0 / 8%);
 }
 
 .o-content {
@@ -27,8 +29,7 @@
 }
 
 .o-btn:hover{
-  color: black;
-  background-color: brown;
+  background:hsla(0,0%,100%,.26);
 
 }
 

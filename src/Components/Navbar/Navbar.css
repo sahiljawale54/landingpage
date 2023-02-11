@@ -1,8 +1,14 @@
 .navbar{
-  height: 9vh;
+  height: 64px;
+  width: 100%;
   display: flex;
   font-size: 1.2rem;
   padding:1rem 2rem 1rem 2rem;
+  position: fixed;
+  top: 0;
+  z-index: 3;
+  background-color: ghostwhite;
+  
 
 }
 .n-left {
@@ -23,8 +29,11 @@
 
 .n-btn{
   margin-left: 10px;
-  border-radius: 34px;
   color:white;
   background-color: var(--green);
+}
+
+.n-btn:hover{
+  color: var(--black);
 }
 
